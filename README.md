@@ -8,13 +8,19 @@ Welcome to the **Multimodal Chatbot** project powered by Google's **Gemini 2.0 F
 - **Interactive Interface:** Built with **Streamlit** for a smooth, real-time experience.
 - **Chat History:** Keeps track of your previous conversations for easy reference.
 
-## Getting Started 🛠️
+## 📦 Installation
 
-### Prerequisites
+Follow these steps to get your **Multimodal Chatbot with Google Gemini-2.0-Flash-Exp** up and running!
 
-1. Python 3.7 or higher
-2. Google Cloud API key for the Gemini model
-3. Install the required Python libraries:
+### 1. Clone the Repository
 
-   ```bash
-   pip install streamlit google-generativeai Pillow
+```bash
+# Clone the repository
+git clone https://github.com/piktx/flash-multimodal-chatbot.git
+cd flash-multimodal-chatbot
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Start the Streamlit app
+streamlit run app.py
