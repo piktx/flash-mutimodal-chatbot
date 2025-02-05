@@ -12,8 +12,6 @@ Welcome to the **Multimodal Chatbot** project powered by Google's **Gemini 2.0 F
 
 Follow these steps to get your **Multimodal Chatbot with Google Gemini-2.0-Flash-Exp** up and running!
 
-### 1. Clone the Repository
-
 ```bash
 # Clone the repository
 git clone https://github.com/piktx/flash-multimodal-chatbot.git
