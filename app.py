@@ -20,7 +20,7 @@ st.set_page_config(
     layout="wide"
 )
 st.title("Multimodal Chatbot with Google gemini-2.0-flash-exp  ⚡️")
-st.caption("Chat with Google's Gemini Flash model using image and text input to by Martin Khristi. 🌟")
+st.caption("Chat with Google's Gemini Flash model using image and text input to by Piyush. 🌟")
 
 # Initialize model
 model = initialize_gemini()
